@@ -1,9 +1,11 @@
-[
-    {
-        "team": "Chattanooga",
-        "eventName": "Tennessee Cross Country Invite",
-        "location": "Knoxville, TN",
-        "date": "2025-8-29",
-        "time": "9:00 AM"
-    }
-]
+{
+    "events" :[
+        {
+            "team": "Chattanooga",
+            "eventName": "Tennessee Cross Country Invite",
+            "location": "Knoxville, TN",
+            "date": "2025-8-29",
+            "time": "9:00 AM"
+        }
+    ]
+}

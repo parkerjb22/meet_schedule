@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
             return response.json();
         })
         .then(data => {
-            displayGrid(data);
+            displayGrid(data.events);
         })
         .catch(error => {
             console.error('Error loading links:', error);
