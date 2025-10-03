@@ -1,0 +1,44 @@
+[
+    {
+        team: "Chattanooga",
+        eventName: "Tennessee Cross Country Invite",
+        location: "Knoxville, TN",
+        date: "2025-8-29",
+        time: "9:00 AM"
+    },
+    {
+        team: "Western Carolina",
+        eventName: "UNC Asheville",
+        location: "Cherokee, NC",
+        date: "2025-8-29",
+        time: "9:00 AM"
+    },
+    {
+        team: "Wofford",
+        eventName: "Eye Opener",
+        location: "Spartanburg, SC",
+        date: "2025-9-5",
+        time: "9:00 AM"
+    },
+    {
+        team: "Furman",
+        eventName: "Eye Opener",
+        location: "Spartanburg, SC",
+        date: "2025-9-5",
+        time: "9:00 AM"
+    },
+    {
+        team: "ETSU",
+        eventName: "Eye Opener",
+        location: "Spartanburg, SC",
+        date: "2025-9-5",
+        time: "9:00 AM"
+    },
+    {
+        team: "Wofford",
+        eventName: "Queen City Invitational",
+        location: "Charlotte, NC",
+        date: "2025-9-12",
+        time: "9:00 AM"
+    }
+]
