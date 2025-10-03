@@ -1,11 +1,298 @@
 {
     "events" :[
-        {
-            "team": "Chattanooga",
-            "eventName": "Tennessee Cross Country Invite",
-            "location": "Knoxville, TN",
-            "date": "2025-8-29",
-            "time": "9:00 AM"
-        }
+      {
+        "team": "Chattanooga",
+        "eventName": "Tennessee Cross Country Invite",
+        "location": "Knoxville, TN",
+        "date": "2025-08-29",
+        "time": "All Day"
+      },
+      {
+        "team": "Western Carolina",
+        "eventName": "UNC Asheville",
+        "location": "Cherokee, NC",
+        "date": "2025-08-29",
+        "time": "All Day"
+      },
+      {
+        "team": "Wofford",
+        "eventName": "Eye Opener",
+        "location": "Spartanburg, SC",
+        "date": "2025-08-29",
+        "time": "All Day"
+      },
+      {
+        "team": "Furman",
+        "eventName": "Eye Opener",
+        "location": "Spartanburg, SC",
+        "date": "2025-08-29",
+        "time": "All Day"
+      },
+      {
+        "team": "ETSU",
+        "eventName": "Eye Opener",
+        "location": "Spartanburg, SC",
+        "date": "2025-08-29",
+        "time": "All Day"
+      },
+      {
+        "team": "The Citadel",
+        "eventName": "Buccaneer Open",
+        "location": "Ladson, SC",
+        "date": "2025-08-29",
+        "time": "All Day"
+      },
+      {
+        "team": "Samford",
+        "eventName": "Jacksonville State",
+        "location": "Jacksonville, AL",
+        "date": "2025-08-29",
+        "time": "All Day"
+      },
+      {
+        "team": "Mercer",
+        "eventName": "MGA/Julius Johnson Invitational",
+        "location": "Macon, GA",
+        "date": "2025-08-30",
+        "time": "All Day"
+      },
+      {
+        "team": "UNC Greensboro",
+        "eventName": "Wake Forest",
+        "location": "Winston-Salem, NC",
+        "date": "2025-08-30",
+        "time": "All Day"
+      },
+      {
+        "team": "VMI",
+        "eventName": "Spider Alumni Invitational",
+        "location": "Richmond, VA",
+        "date": "2025-08-30",
+        "time": "All Day"
+      },
+      {
+        "team": "Wofford",
+        "eventName": "Queen City Invitational",
+        "location": "Charlotte, NC",
+        "date": "2025-09-12",
+        "time": "All Day"
+      },
+      {
+        "team": "The Citadel",
+        "eventName": "Queen City Invitational",
+        "location": "Charlotte, NC",
+        "date": "2025-09-12",
+        "time": "All Day"
+      },
+      {
+        "team": "Western Carolina",
+        "eventName": "Virginia Invitational",
+        "location": "Charlottesville, VA",
+        "date": "2025-09-12",
+        "time": "All Day"
+      },
+      {
+        "team": "VMI",
+        "eventName": "Shenandoah Twilight",
+        "location": "Winchester, VA",
+        "date": "2025-09-12",
+        "time": "All Day"
+      },
+      {
+        "team": "Chattanooga",
+        "eventName": "Southern Showcase",
+        "location": "Huntsville, AL",
+        "date": "2025-09-12",
+        "time": "All Day"
+      },
+      {
+        "team": "Mercer",
+        "eventName": "Southern Showcase",
+        "location": "Huntsville, AL",
+        "date": "2025-09-12",
+        "time": "All Day"
+      },
+      {
+        "team": "ETSU",
+        "eventName": "Southern Showcase",
+        "location": "Huntsville, AL",
+        "date": "2025-09-12",
+        "time": "All Day"
+      },
+      {
+        "team": "Furman",
+        "eventName": "Furman Invitational",
+        "location": "Greenville, SC",
+        "date": "2025-09-13",
+        "time": "All Day"
+      },
+      {
+        "team": "UNC Greensboro",
+        "eventName": "Adidas XC Challenge",
+        "location": "Cary, NC",
+        "date": "2025-09-19",
+        "time": "4:55 PM"
+      },
+      {
+        "team": "ETSU",
+        "eventName": "Hokie Invitational",
+        "location": "Blacksburg, VA",
+        "date": "2025-09-19",
+        "time": "5:00 PM"
+      },
+      {
+        "team": "Samford",
+        "eventName": "Florida State",
+        "location": "Tallahassee, FL",
+        "date": "2025-09-26",
+        "time": "All Day"
+      },
+      {
+        "team": "Furman",
+        "eventName": "Gans Creek Classic",
+        "location": "Columbia, MO",
+        "date": "2025-09-26",
+        "time": "8:00 AM"
+      },
+      {
+        "team": "VMI",
+        "eventName": "James Madison Invitational",
+        "location": "New Market, VA",
+        "date": "2025-09-26",
+        "time": "4:00 PM"
+      },
+      {
+        "team": "Chattanooga",
+        "eventName": "Georgia Tech Invitational",
+        "location": "Atlanta, GA",
+        "date": "2025-10-03",
+        "time": "8:20 AM"
+      },
+      {
+        "team": "Wofford",
+        "eventName": "Georgia Tech Invitational",
+        "location": "Atlanta, GA",
+        "date": "2025-10-03",
+        "time": "8:20 AM"
+      },
+      {
+        "team": "Mercer",
+        "eventName": "Georgia Tech Invitational",
+        "location": "Atlanta, GA",
+        "date": "2025-10-03",
+        "time": "8:20 AM"
+      },
+      {
+        "team": "UNC Greensboro",
+        "eventName": "Spartan Classic",
+        "location": "Kernersville, NC",
+        "date": "2025-10-03",
+        "time": "4:00 PM"
+      },
+      {
+        "team": "The Citadel",
+        "eventName": "Firetower Project Run",
+        "location": "Boone, NC",
+        "date": "2025-10-03",
+        "time": "4:40 PM"
+      },
+      {
+        "team": "ETSU",
+        "eventName": "Louisville",
+        "location": "Louisville, KY",
+        "date": "2025-10-04",
+        "time": "8:45 AM"
+      },
+      {
+        "team": "The Citadel",
+        "eventName": "Sand Shark Invitational",
+        "location": "Hardeeville, SC",
+        "date": "2025-10-11",
+        "time": "7:30 AM"
+      },
+      {
+        "team": "UNC Greensboro",
+        "eventName": "Panorama Farms Invitational",
+        "location": "Charlottesville, VA",
+        "date": "2025-10-17",
+        "time": "7:45 AM"
+      },
+      {
+        "team": "VMI",
+        "eventName": "Panorama Farms Invitational",
+        "location": "Charlottesville, VA",
+        "date": "2025-10-17",
+        "time": "7:45 AM"
+      },
+      {
+        "team": "Mercer",
+        "eventName": "Arturo Barrios Invitational",
+        "location": "College Station, TX",
+        "date": "2025-10-17",
+        "time": "9:15 AM"
+      },
+      {
+        "team": "Chattanooga",
+        "eventName": "Crimson Classic",
+        "location": "Tuscaloosa, AL",
+        "date": "2025-10-17",
+        "time": "9:20 AM"
+      },
+      {
+        "team": "Samford",
+        "eventName": "Crimson Classic",
+        "location": "Tuscaloosa, AL",
+        "date": "2025-10-17",
+        "time": "9:20 AM"
+      },
+      {
+        "team": "Furman",
+        "eventName": "Nuttycombe Invitational",
+        "location": "Madison, WI",
+        "date": "2025-10-17",
+        "time": "9:30 AM"
+      },
+      {
+        "team": "UNC Greensboro",
+        "eventName": "Upstate Invitational",
+        "location": "Spartanburg, SC",
+        "date": "2025-10-18",
+        "time": "8:00 AM"
+      },
+      {
+        "team": "Wofford",
+        "eventName": "Upstate Invitational",
+        "location": "Spartanburg, SC",
+        "date": "2025-10-18",
+        "time": "8:00 AM"
+      },
+      {
+        "team": "Western Carolina",
+        "eventName": "Upstate Invitational",
+        "location": "Spartanburg, SC",
+        "date": "2025-10-18",
+        "time": "8:00 AM"
+      },
+      {
+        "team": "The Citadel",
+        "eventName": "USC Upstate Invitational",
+        "location": "Spartanburg, SC",
+        "date": "2025-10-18",
+        "time": "8:00 AM"
+      },
+      {
+        "team": "Chattanooga",
+        "eventName": "Pre-National Invite",
+        "location": "Columbia, MO",
+        "date": "2025-10-18",
+        "time": "9:00 AM"
+      },
+      {
+        "team": "ETSU",
+        "eventName": "Roanoke Invitational",
+        "location": "Salem, VA",
+        "date": "2025-10-18",
+        "time": "10:30 AM"
+      }
     ]
 }
