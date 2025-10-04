@@ -8,7 +8,9 @@ document.addEventListener('DOMContentLoaded', () => {
             return response.json();
         })
         .then(data => {
-            displayGrid(data.socon);
+            for (const [key, value] of Object.entries(data)) {
+                displayGrid(value, key)
+            }
         })
         .catch(error => {
             console.error('Error loading links:', error);
@@ -75,7 +77,7 @@ function getWeekendRange(date) {
             return { teams, weekends, grid };
         }
 
-        function displayGrid(eventsData) {
+        function displayGrid(eventsData, conf) {
             const { teams, weekends, grid } = buildGrid(eventsData);
             const container = document.getElementById('schedule-grid');
             
@@ -84,7 +86,7 @@ function getWeekendRange(date) {
             const headerRow = document.createElement('tr');
             
             const emptyHeader = document.createElement('th');
-            emptyHeader.textContent = 'TEAM';
+            emptyHeader.textContent = conf.toUpperCase();
             headerRow.appendChild(emptyHeader);
             
             weekends.forEach(weekend => {

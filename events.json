@@ -294,5 +294,455 @@
         "date": "2025-10-18",
         "time": "10:30 AM"
       }
+    ],
+    "sec": [
+      {
+        "team": "Alabama",
+        "eventName": "SEC Preview",
+        "location": "Knoxville, TN",
+        "date": "2025-08-29",
+        "time": "All Day"
+      },
+      {
+        "team": "Kentucky",
+        "eventName": "SEC Preview",
+        "location": "Knoxville, TN",
+        "date": "2025-08-29",
+        "time": "All Day"
+      },
+      {
+        "team": "Auburn",
+        "eventName": "JSU Foothills Invitational",
+        "location": "Oxford, AL",
+        "date": "2025-08-29",
+        "time": "All Day"
+      },
+      {
+        "team": "Florida",
+        "eventName": "Florida Intercollegiate XC Invitational",
+        "location": "Jacksonville, FL",
+        "date": "2025-08-29",
+        "time": "All Day"
+      },
+      {
+        "team": "Arkansas Women",
+        "eventName": "Mizzou Opener",
+        "location": "Columbia, MO",
+        "date": "2025-08-29",
+        "time": "All Day"
+      },
+      {
+        "team": "Missouri",
+        "eventName": "Mizzou Opener",
+        "location": "Columbia, MO",
+        "date": "2025-08-29",
+        "time": "All Day"
+      },
+      {
+        "team": "Georgia",
+        "eventName": "Covered Bridge Invitational",
+        "location": "Boone, NC",
+        "date": "2025-08-29",
+        "time": "All Day"
+      },
+      {
+        "team": "South Carolina",
+        "eventName": "Covered Bridge Invitational",
+        "location": "Boone, NC",
+        "date": "2025-08-29",
+        "time": "All Day"
+      },
+      {
+        "team": "LSU",
+        "eventName": "Battle for New Orleans",
+        "location": "New Orleans, LA",
+        "date": "2025-08-29",
+        "time": "All Day"
+      },
+      {
+        "team": "Oklahoma",
+        "eventName": "Cowboy Preview",
+        "location": "Stillwater, OK",
+        "date": "2025-08-29",
+        "time": "All Day"
+      },
+      {
+        "team": "Tennessee",
+        "eventName": "Tennessee Cross Country Invitational",
+        "location": "Knoxville, TN",
+        "date": "2025-08-29",
+        "time": "All Day"
+      },
+      {
+        "team": "Texas A&M",
+        "eventName": "John McKenzie Invitational",
+        "location": "Fort Worth, TX",
+        "date": "2025-08-29",
+        "time": "All Day"
+      },
+      {
+        "team": "Vanderbilt",
+        "eventName": "Belmont Opener",
+        "location": "Nashville, TN",
+        "date": "2025-08-29",
+        "time": "All Day"
+      },
+      {
+        "team": "Ole Miss",
+        "eventName": "Memphis Twilight",
+        "location": "Memphis, TN",
+        "date": "2025-08-30",
+        "time": "All Day"
+      },
+      {
+        "team": "Mississippi State",
+        "eventName": "Memphis Twilight",
+        "location": "Memphis, TN",
+        "date": "2025-08-30",
+        "time": "All Day"
+      },
+      {
+        "team": "Texas",
+        "eventName": "Texas at Concordia University",
+        "location": "Georgetown, TX",
+        "date": "2025-08-30",
+        "time": "All Day"
+      },
+      {
+        "team": "Oklahoma Men",
+        "eventName": "Aggie Duels",
+        "location": "Lawton, OK",
+        "date": "2025-09-05",
+        "time": "All Day"
+      },
+      {
+        "team": "Oklahoma Women",
+        "eventName": "JK Gold Classic",
+        "location": "Wichita, KS",
+        "date": "2025-09-06",
+        "time": "All Day"
+      },
+      {
+        "team": "Alabama",
+        "eventName": "Southern Showcase",
+        "location": "Huntsville, AL",
+        "date": "2025-09-12",
+        "time": "All Day"
+      },
+      {
+        "team": "Auburn",
+        "eventName": "Southern Showcase",
+        "location": "Huntsville, AL",
+        "date": "2025-09-12",
+        "time": "All Day"
+      },
+      {
+        "team": "Mississippi State",
+        "eventName": "Southern Showcase",
+        "location": "Huntsville, AL",
+        "date": "2025-09-12",
+        "time": "All Day"
+      },
+      {
+        "team": "LSU",
+        "eventName": "LSU Invitational",
+        "location": "Baton Rouge, LA",
+        "date": "2025-09-12",
+        "time": "All Day"
+      },
+      {
+        "team": "South Carolina",
+        "eventName": "Adidas XC Challenge",
+        "location": "Raleigh, NC",
+        "date": "2025-09-12",
+        "time": "All Day"
+      },
+      {
+        "team": "Texas",
+        "eventName": "UIW Invitational",
+        "location": "San Antonio, TX",
+        "date": "2025-09-12",
+        "time": "All Day"
+      },
+      {
+        "team": "Texas A&M",
+        "eventName": "Texas A&M Invitational",
+        "location": "Bryan-College Station, TX",
+        "date": "2025-09-13",
+        "time": "All Day"
+      },
+      {
+        "team": "Missouri",
+        "eventName": "Greeno Dirksen Cross Country Invite",
+        "location": "Lincoln, NE",
+        "date": "2025-09-20",
+        "time": "All Day"
+      },
+      {
+        "team": "Alabama",
+        "eventName": "Gans Creek Classic",
+        "location": "Columbia, MO",
+        "date": "2025-09-26",
+        "time": "All Day"
+      },
+      {
+        "team": "Arkansas Women",
+        "eventName": "Gans Creek Classic",
+        "location": "Columbia, MO",
+        "date": "2025-09-26",
+        "time": "All Day"
+      },
+      {
+        "team": "Auburn",
+        "eventName": "Gans Creek Classic",
+        "location": "Columbia, MO",
+        "date": "2025-09-26",
+        "time": "All Day"
+      },
+      {
+        "team": "Florida",
+        "eventName": "Gans Creek Classic",
+        "location": "Columbia, MO",
+        "date": "2025-09-26",
+        "time": "All Day"
+      },
+      {
+        "team": "Ole Miss",
+        "eventName": "Gans Creek Classic",
+        "location": "Columbia, MO",
+        "date": "2025-09-26",
+        "time": "All Day"
+      },
+      {
+        "team": "Missouri",
+        "eventName": "Gans Creek Classic",
+        "location": "Columbia, MO",
+        "date": "2025-09-26",
+        "time": "All Day"
+      },
+      {
+        "team": "Oklahoma Women",
+        "eventName": "Gans Creek Classic",
+        "location": "Columbia, MO",
+        "date": "2025-09-26",
+        "time": "All Day"
+      },
+      {
+        "team": "Tennessee",
+        "eventName": "Gans Creek Classic",
+        "location": "Columbia, MO",
+        "date": "2025-09-26",
+        "time": "All Day"
+      },
+      {
+        "team": "Vanderbilt",
+        "eventName": "Gans Creek Classic",
+        "location": "Columbia, MO",
+        "date": "2025-09-26",
+        "time": "All Day"
+      },
+      {
+        "team": "Georgia",
+        "eventName": "Seminole Invite",
+        "location": "Tallahassee, FL",
+        "date": "2025-09-26",
+        "time": "All Day"
+      },
+      {
+        "team": "LSU",
+        "eventName": "Seminole Invite",
+        "location": "Tallahassee, FL",
+        "date": "2025-09-26",
+        "time": "All Day"
+      },
+      {
+        "team": "Kentucky",
+        "eventName": "Cowboy Jamboree",
+        "location": "Stillwater, OK",
+        "date": "2025-09-26",
+        "time": "All Day"
+      },
+      {
+        "team": "Oklahoma Men",
+        "eventName": "Cowboy Jamboree",
+        "location": "Stillwater, OK",
+        "date": "2025-09-26",
+        "time": "All Day"
+      },
+      {
+        "team": "South Carolina",
+        "eventName": "Joe Piane Notre Dame Invite",
+        "location": "South Bend, IN",
+        "date": "2025-10-03",
+        "time": "All Day"
+      },
+      {
+        "team": "Texas A&M",
+        "eventName": "Paul Short Run",
+        "location": "Bethlehem, PA",
+        "date": "2025-10-03",
+        "time": "All Day"
+      },
+      {
+        "team": "Arkansas",
+        "eventName": "Chile Pepper Festival",
+        "location": "Fayetteville, AR",
+        "date": "2025-10-04",
+        "time": "All Day"
+      },
+      {
+        "team": "Texas",
+        "eventName": "Chile Pepper Festival",
+        "location": "Fayetteville, AR",
+        "date": "2025-10-04",
+        "time": "All Day"
+      },
+      {
+        "team": "Mississippi State",
+        "eventName": "Belhaven Invite",
+        "location": "Jackson, MS",
+        "date": "2025-10-04",
+        "time": "All Day"
+      },
+      {
+        "team": "Alabama",
+        "eventName": "Crimson Classic",
+        "location": "Tuscaloosa, AL",
+        "date": "2025-10-17",
+        "time": "All Day"
+      },
+      {
+        "team": "Auburn",
+        "eventName": "Crimson Classic",
+        "location": "Tuscaloosa, AL",
+        "date": "2025-10-17",
+        "time": "All Day"
+      },
+      {
+        "team": "Mississippi State",
+        "eventName": "Crimson Classic",
+        "location": "Tuscaloosa, AL",
+        "date": "2025-10-17",
+        "time": "All Day"
+      },
+      {
+        "team": "South Carolina",
+        "eventName": "Crimson Classic",
+        "location": "Tuscaloosa, AL",
+        "date": "2025-10-17",
+        "time": "All Day"
+      },
+      {
+        "team": "Vanderbilt",
+        "eventName": "Crimson Classic",
+        "location": "Tuscaloosa, AL",
+        "date": "2025-10-17",
+        "time": "All Day"
+      },
+      {
+        "team": "Arkansas Women",
+        "eventName": "Nuttycombe Invitational",
+        "location": "Madison, WI",
+        "date": "2025-10-17",
+        "time": "All Day"
+      },
+      {
+        "team": "LSU",
+        "eventName": "Arturo Barrios Invitational",
+        "location": "Bryan-College Station, TX",
+        "date": "2025-10-17",
+        "time": "All Day"
+      },
+      {
+        "team": "Oklahoma Women",
+        "eventName": "Arturo Barrios Invitational",
+        "location": "Bryan-College Station, TX",
+        "date": "2025-10-17",
+        "time": "All Day"
+      },
+      {
+        "team": "Texas A&M",
+        "eventName": "Arturo Barrios Invitational",
+        "location": "Bryan-College Station, TX",
+        "date": "2025-10-17",
+        "time": "All Day"
+      },
+      {
+        "team": "Oklahoma Men",
+        "eventName": "Princeton Fall Classic",
+        "location": "Princeton, NJ",
+        "date": "2025-10-17",
+        "time": "All Day"
+      },
+      {
+        "team": "Arkansas Men",
+        "eventName": "Pre-National Invitational",
+        "location": "Columbia, MO",
+        "date": "2025-10-18",
+        "time": "All Day"
+      },
+      {
+        "team": "Florida",
+        "eventName": "Pre-National Invitational",
+        "location": "Columbia, MO",
+        "date": "2025-10-18",
+        "time": "All Day"
+      },
+      {
+        "team": "Georgia",
+        "eventName": "Pre-National Invitational",
+        "location": "Columbia, MO",
+        "date": "2025-10-18",
+        "time": "All Day"
+      },
+      {
+        "team": "Kentucky",
+        "eventName": "Pre-National Invitational",
+        "location": "Columbia, MO",
+        "date": "2025-10-18",
+        "time": "All Day"
+      },
+      {
+        "team": "Ole Miss",
+        "eventName": "Pre-National Invitational",
+        "location": "Columbia, MO",
+        "date": "2025-10-18",
+        "time": "All Day"
+      },
+      {
+        "team": "Mississippi State",
+        "eventName": "Pre-National Invitational",
+        "location": "Columbia, MO",
+        "date": "2025-10-18",
+        "time": "All Day"
+      },
+      {
+        "team": "Missouri",
+        "eventName": "Pre-National Invitational",
+        "location": "Columbia, MO",
+        "date": "2025-10-18",
+        "time": "All Day"
+      },
+      {
+        "team": "Tennessee",
+        "eventName": "Pre-National Invitational",
+        "location": "Columbia, MO",
+        "date": "2025-10-18",
+        "time": "All Day"
+      },
+      {
+        "team": "Texas",
+        "eventName": "Pre-National Invitational",
+        "location": "Columbia, MO",
+        "date": "2025-10-18",
+        "time": "All Day"
+      },
+      {
+        "team": "Vanderbilt",
+        "eventName": "Pre-National Invitational",
+        "location": "Columbia, MO",
+        "date": "2025-10-18",
+        "time": "All Day"
+      }
     ]
 }
